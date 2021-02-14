@@ -1,3 +1,5 @@
+package People;
+
 public class Passenger extends Person {
 
     private int numberOfBags;
